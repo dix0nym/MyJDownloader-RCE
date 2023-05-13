@@ -1,0 +1,7 @@
+[submodule "myjdapi"]
+	path = myjdapi
+	url = https://github.com/dix0nym/My.Jdownloader-API-Python-Library.git
+
+[submodule "EvilRATPy"]
+	path = EvilRATPy
+	url = https://github.com/dix0nym/EvilRATPy.git
